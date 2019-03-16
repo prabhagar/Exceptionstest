@@ -2,6 +2,7 @@ public class Foo
 {  
     public static void main(String[] args) 
     {
+
         try 
         { 
             return; 
@@ -12,4 +13,5 @@ public class Foo
             System.out.println("Change done for checking push");
         } 
     } 
+    
 }
